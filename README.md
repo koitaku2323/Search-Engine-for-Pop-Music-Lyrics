@@ -5,4 +5,4 @@ Ryan Yee,
 Yupeng Ni,
 Vy Truong,
 Jenny Deng,
-Albert Vuong,
+Albert Vuong.
