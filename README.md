@@ -1,5 +1,5 @@
 # CIS22C
-Final Project - Pop Music
+Final Project - Pop Music (inverted index)
 
 Contributors: 
 Ryan Yee,
