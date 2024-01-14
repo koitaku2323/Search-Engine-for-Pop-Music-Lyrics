@@ -46,7 +46,7 @@ This project is a Search Engine designed to index and retrieve information about
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/pop-music-search-engine.git
+   git clone https://github.com/koitaku2323/Search-Engine-for-Pop-Music-Lyrics.git
    ```
 
 2. Open the project in your preferred IDE.
