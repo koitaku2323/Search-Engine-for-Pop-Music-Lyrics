@@ -23,8 +23,6 @@ This project is a Search Engine designed to index and retrieve information about
     - [Stop Words](#stop-words)
     - [File Paths](#file-paths)
   - [Contributing](#contributing)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
 
 ## Features
 
