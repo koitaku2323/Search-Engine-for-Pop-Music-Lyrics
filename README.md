@@ -89,10 +89,5 @@ Adjust file paths and names by modifying constants like `FILE_FOLDER` and `FILE_
 
 Feel free to contribute to the project by opening issues or submitting pull requests. Your feedback and contributions are highly appreciated.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to modify the README to fit your project's specifics and provide additional details.
